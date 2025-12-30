@@ -475,13 +475,20 @@ img {
     max-width: 809px;
     margin: 0 auto;
 }
-
-/* .slick-next:before,.slick-prev:before{
+/* 
+.slick-next:before,.slick-prev:before{
 
     background-color: black;
 
-} */
+}  */
 
+.testimonials-slider .slick-next:before,
+.testimonials-slider .slick-prev:before{
+
+
+    background-color: black;
+
+}
 
 
 
